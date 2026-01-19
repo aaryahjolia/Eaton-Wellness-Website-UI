@@ -650,4 +650,8 @@ nav {
   .main_heading_logo img {
     bottom: -15%;
   }
+
+  .custom_package_section_links {
+    width: 100%;
+  }
 }
